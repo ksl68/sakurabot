@@ -27,7 +27,7 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard/
+cd /sdcard
 ```
 **4° Comando**
 ```
